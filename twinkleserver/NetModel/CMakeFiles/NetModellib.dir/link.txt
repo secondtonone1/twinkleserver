@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNetModellib.a  CMakeFiles/NetModellib.dir/connection.cpp.o CMakeFiles/NetModellib.dir/connection_manager.cpp.o CMakeFiles/NetModellib.dir/mime_types.cpp.o CMakeFiles/NetModellib.dir/reply.cpp.o CMakeFiles/NetModellib.dir/request_handler.cpp.o CMakeFiles/NetModellib.dir/request_parser.cpp.o CMakeFiles/NetModellib.dir/server.cpp.o
+/usr/bin/ranlib libNetModellib.a

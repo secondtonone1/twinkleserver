@@ -1,0 +1,6 @@
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/CMakeFiles/rebuild_cache.dir
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/CMakeFiles/server.dir
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/CMakeFiles/edit_cache.dir
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/NetModel/CMakeFiles/rebuild_cache.dir
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/NetModel/CMakeFiles/NetModellib.dir
+/home/secondtonone1/workspace/twinkleserver/twinkleserver/NetModel/CMakeFiles/edit_cache.dir
